@@ -13,3 +13,7 @@ Following video should guide you through the build process: xxxx
 2..7: each of the patterns above fixed    
 8/9:  select static color of outer and inner LED's    
 9/10: select static color on all LED's
+
+
+**Encoder library:**
+        https://github.com/PaulStoffregen/Encoder
