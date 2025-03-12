@@ -1,6 +1,7 @@
 # MegaMush
 Code for the 3D printed MegaMush smart RGB LED Lamp running on a XIAO SAMD21 microcontroller. 
-Following video should guide you through the build process: xxxx
+Following video should guide you through the build process:        
+https://youtu.be/weoD8Tf9_wk?si=lwwmWUC_pM6Zsug7
 
 **MegaMush functions:**   
 - Short press: Toggles the LED's ON/OFF  
